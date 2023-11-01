@@ -1,4 +1,4 @@
-let numbersToCompare = [3, 6, 12, 5, 100, 1, 9, 78];
+let numbersToCompare = [3, 6, 12, 5, 100, 1];
 let resultInScreen = document.getElementById("result");
 document.getElementById("arrayInfo").innerHTML = `[${numbersToCompare}]`;
 
